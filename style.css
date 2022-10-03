@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    background-color: black;
+    color: lightgreen;
+}
+textarea{
+    width: 90%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid lightgreen;
+}
+#output{
+    border: 1px solid lightgreen;
+    height: 10vh;
+    width: 90%;
+    margin: 1rem;
+    padding: 1rem;
+}
+#btn{
+    border: 3px solid lightgreen;
+}
